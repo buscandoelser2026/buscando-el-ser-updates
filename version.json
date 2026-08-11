@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.5/frontend-javafx-1.2.5.jar",
-  "sha256": "d2ff3aa767e699ec74debae9f945d0be16bdd7b4949ab1b6c7313b48deca65fc",
-  "notes": "Cobranzas paginadas y ordenadas por apellido, buscador de interno, salidas ampliar/Excel, contactos opcionales, updater macOS"
+  "version": "1.2.6",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.6/frontend-javafx-1.2.6.jar",
+  "sha256": "6583821353931c35ea7a6470a6348b1a43217abbf0cdbd45049563c8efd8f592",
+  "notes": "Etiqueta de version en el login"
 }
