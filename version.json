@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.8/frontend-javafx-1.2.8.jar",
-  "sha256": "2b9a10a6779f54375975a94df8662ae9cc6a04f95d87f54de3d1853e5b125af6",
-  "notes": "Fix maximizar/restaurar ventana"
+  "version": "1.2.9",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.9/frontend-javafx-1.2.9.jar",
+  "sha256": "75cf1af6b6cf37473e5c610aa1d6600ed2150b10b3475b42e0bcaeb4c7c1bef6",
+  "notes": "Restaurar ventana siempre dentro de pantalla"
 }
