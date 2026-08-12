@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.9/frontend-javafx-1.2.9.jar",
-  "sha256": "75cf1af6b6cf37473e5c610aa1d6600ed2150b10b3475b42e0bcaeb4c7c1bef6",
-  "notes": "Restaurar ventana siempre dentro de pantalla"
+  "version": "1.2.10",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.10/frontend-javafx-1.2.10.jar",
+  "sha256": "a8df944abc13855f9007f26f3a829dd256bb55b7d1097c338bfbead7bddadeb6",
+  "notes": "Fix ventana restaurar + diagnostico"
 }
