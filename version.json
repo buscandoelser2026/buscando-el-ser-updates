@@ -1,5 +1,6 @@
 {
-  "version": "1.2.11",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.11/frontend-javafx-1.2.11.jar",
-  "sha256": "096d0251c7f42aaab7fe5c40206446c20983b263d1164af2f6abf2816ac90330"
+  "version": "1.2.12",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.12/frontend-javafx-1.2.12.jar",
+  "sha256": "b5d74b619d3f8751eaf584ff8b5049b0d8444d5e3c80f96d3624b263bc60b358",
+  "notes": "Cobranzas: quitar mora de una cuota + badge 'mora eximida'."
 }
