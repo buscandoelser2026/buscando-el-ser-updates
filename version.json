@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.13/frontend-javafx-1.2.13.jar",
-  "sha256": "61d5fbd45c7d2966f70ddaa7a88795ed373ff04e2c36e755cee0e85f2ce69019",
-  "notes": "Cobranzas: editar y eliminar cuotas, interes manual por cuota (se quito la mora automatica). Internos: marca 'Becado' (no se le genera cuota) y buscador que funciona sin coma. Cobro: preselecciona la cuota mas vieja impaga. Dashboard: 'Internos con deuda' muestra deudores, parciales y mora con exportar a Excel."
+  "version": "1.2.14",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.14/frontend-javafx-1.2.14.jar",
+  "sha256": "3f83879a77e22e5a366bcd3c04db9018ad7e1987a091b63a4b53234fe4b6cd77",
+  "notes": "Baja de interno: elimina sus cuotas y pagos, con aviso e irreversible. Pago de mas: el excedente se acredita como adelanto para los meses siguientes (aviso al cobrar y se ve en la cuota, reduce el saldo)."
 }
