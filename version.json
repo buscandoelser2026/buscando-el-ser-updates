@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.15/frontend-javafx-1.2.15.jar",
-  "sha256": "be293d5372d82e1ae55c3bb136dff1736bc1db9db2a72cfdafee30a092b3e77c",
-  "notes": "Editar cobro: se arregla que el boton Guardar quedaba deshabilitado al editar pagos de internos con las cuotas ya pagas. Historial de pagos de personal: nueva columna Observacion (con globo al pasar el mouse para ver el texto completo) y la ventana ahora se puede agrandar arrastrando los bordes para leer la observacion entera."
+  "version": "1.2.16",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.16/frontend-javafx-1.2.16.jar",
+  "sha256": "2e7c996155e950cc612676fcff89a94160d08f3017b61f9ad5acc1dc133f359f",
+  "notes": "Deuda detallada con filtros + export, egresos por medio, export de gráficos, filtro por fecha de ingreso, deudas por apellido, historial de pagos por interno, ajuste de meses de salida."
 }
