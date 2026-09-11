@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.17/frontend-javafx-1.2.17.jar",
-  "sha256": "241d47af84b28e3b43a05881738e2ac7fa82c66cd027938fdb89b0be5dcc86c2",
-  "notes": ""
+  "version": "1.2.19",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.19/frontend-javafx-1.2.19.jar",
+  "sha256": "30eb691cf447f3494261bdf9f844410a910d8142e28c42e2e91487cc19d96a80",
+  "notes": "Gastos: editar/eliminar + comprobante y observaciones. Pantalla completa fija."
 }
