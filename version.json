@@ -1,6 +1,6 @@
 {
-  "version": "1.2.17",
+  "version": "0.0.0",
   "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.17/frontend-javafx-1.2.17.jar",
   "sha256": "241d47af84b28e3b43a05881738e2ac7fa82c66cd027938fdb89b0be5dcc86c2",
-  "notes": "Cartel de novedades al actualizar. Exportar cuotas filtradas a Excel. Rol admin unico para usuarios nuevos."
+  "notes": ""
 }
