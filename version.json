@@ -1,6 +1,6 @@
 {
-  "version": "1.2.19",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.19/frontend-javafx-1.2.19.jar",
-  "sha256": "30eb691cf447f3494261bdf9f844410a910d8142e28c42e2e91487cc19d96a80",
-  "notes": "Gastos: editar/eliminar + comprobante y observaciones. Pantalla completa fija."
+  "version": "1.2.20",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.20/frontend-javafx-1.2.20.jar",
+  "sha256": "a7f58135b776779e488f65487ef87678874e9dd995f047d983db367fcfb2e240",
+  "notes": "Ahora, desde Editar interno, podés modificar la salida (fecha de egreso) de una persona. Sirve para corregirla aunque el interno ya no aparezca en Próximas salidas."
 }
