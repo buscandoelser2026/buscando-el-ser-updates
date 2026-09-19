@@ -1,6 +1,6 @@
 {
-  "version": "1.2.20",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.20/frontend-javafx-1.2.20.jar",
-  "sha256": "a7f58135b776779e488f65487ef87678874e9dd995f047d983db367fcfb2e240",
-  "notes": "Ahora, desde Editar interno, podés modificar la salida (fecha de egreso) de una persona. Sirve para corregirla aunque el interno ya no aparezca en Próximas salidas."
+  "version": "1.2.21",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.21/frontend-javafx-1.2.21.jar",
+  "sha256": "c1d99101cb6db019f43016cf23b95802643f17d02575da04b168ab5cfe68381b",
+  "notes": "Se corrigió un problema que impedía abrir la app en Mac. Además: desde Editar interno ahora podés modificar la salida (fecha de egreso) de una persona."
 }
