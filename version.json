@@ -1,6 +1,6 @@
 {
-  "version": "1.2.21",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.21/frontend-javafx-1.2.21.jar",
-  "sha256": "c1d99101cb6db019f43016cf23b95802643f17d02575da04b168ab5cfe68381b",
-  "notes": "Se corrigió un problema que impedía abrir la app en Mac. Además: desde Editar interno ahora podés modificar la salida (fecha de egreso) de una persona."
+  "version": "1.2.22",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.22/frontend-javafx-1.2.22.jar",
+  "sha256": "ef39dba79c575afe5a970d25a0e6b27c60e028ea9c0d805e1d753d7ba76863bc",
+  "notes": "Nueva pestaña Movimientos en Cobranzas para encontrar transferencias rápido, filtros en Pagos, exportar lo que ves en pantalla y corregir la fecha de ingreso de un interno."
 }
