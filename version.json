@@ -1,6 +1,6 @@
 {
-  "version": "1.2.22",
-  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.22/frontend-javafx-1.2.22.jar",
-  "sha256": "ef39dba79c575afe5a970d25a0e6b27c60e028ea9c0d805e1d753d7ba76863bc",
-  "notes": "Nueva pestaña Movimientos en Cobranzas para encontrar transferencias rápido, filtros en Pagos, exportar lo que ves en pantalla y corregir la fecha de ingreso de un interno."
+  "version": "1.2.23",
+  "url": "https://github.com/buscandoelser2026/buscando-el-ser-updates/releases/download/v1.2.23/frontend-javafx-1.2.23.jar",
+  "sha256": "6e9677abfc9534742e4f8a35d966a835815290e11f80698dca34fe99113e844d",
+  "notes": "Campanita de alertas (altas de 22 meses y salidas), panel general renovado, descuento por interno, deuda de inactivos en Cobranzas y exportes que respetan el rango de meses."
 }
